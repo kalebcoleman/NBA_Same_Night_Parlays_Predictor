@@ -9,3 +9,5 @@ renv/library/
 .Rhistory
 .Rdata
 .Rproj.user/
+.Rhistory
+.Rprofile
