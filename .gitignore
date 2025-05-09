@@ -11,3 +11,4 @@ renv/library/
 .Rproj.user/
 .Rhistory
 .Rprofile
+.gitignore
